@@ -1,4 +1,4 @@
-# 💫 About Me: Nasriddinov Ozodbek 🧠🚀
+# 💫 G.O.A.T 🧠🚀
 🧠 I am Full Stack Developer and I want to be Junior !<br>🚀 I  am want to work for freelance!<br>✌️ i am studying at scholl!<br>🧑‍💻 i am love Leet code and Monkeytype<br>🚀🧠 Every body can love Code 
 
 
