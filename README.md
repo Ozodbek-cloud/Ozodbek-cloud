@@ -1,4 +1,4 @@
-# 💫 The Just Code It! 🧠🚀
+# 💫  Just Code It! 🧠🚀
 🧠 I am just Coder and My Dream is become Full stack Developer<br>🚀 I  do like be freelancer and creating startup projects<br>✌️ i am currently a student at the moment<br>🧑‍💻 i like solving Leet code and typing fast on  Monkeytype<br>🚀
 
 # 💻 Tech Stack:
