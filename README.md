@@ -1,25 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+MongoDB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<!-- HERO -->
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Full Stack Developer Animated Banner"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vortex&color=blue&style=flat-square&label=Profile+Views)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Salom%2C+men+Vortex!;Full+Stack+Developer;NestJS+%7C+React+%7C+PostgreSQL+%7C+Docker;Clean+Code+%26+Scalable+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ozodbek-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ozodbek-cloud&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- QUICK BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-informational?style=for-the-badge" alt="stack"/>
+  <img src="https://img.shields.io/badge/Focus-NestJS%20%7C%20React%20%7C%20Prisma-success?style=for-the-badge" alt="focus"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ozodbek-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,react,nextjs,redux,html,css,tailwind,postgres,mongodb,prisma,redis,docker,git,linux&perline=9" />
+</p>
+
+---
+
+### 📈 Live Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 🧠 What I’m Building
+- Modular backends (NestJS + Prisma + PostgreSQL)
+- Reusable UI kits (React + Tailwind + shadcn)
+- Caching & queues (Redis) • Observability (Winston)
+
+---
+
+### 🕹️ Animated Contributions
+<!-- 3D contribution (CI bilan generatsiya qilinadi) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
+</p>
+
+<!-- Snake (CI bilan generatsiya qilinadi) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+### 📬 Contact
+<p align="center">
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-yourmail%40example.com-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github"/></a>
+</p>
