@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+MongoDB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+![GitHub Activity Graph](https://github.com/Vortex/Vortex/blob/output/github-contribution-grid-snake.svg)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vortex&color=blue&style=flat-square&label=Profile+Views)
 
 
 # 💻 Tech Stack:
