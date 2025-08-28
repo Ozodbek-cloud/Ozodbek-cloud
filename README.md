@@ -13,7 +13,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ozodbek-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ozodbek-cloud&theme=dark&hide_border=false)<br/>
@@ -21,6 +21,18 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ozodbek-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+MongoDB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+---
+
+## 🚗 Drift time
+<img src="drift.gif" width="600">
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Vortex/Vortex/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
