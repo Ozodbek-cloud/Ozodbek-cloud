@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+MongoDB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-🧠 I am just Coder and My Dream is become Full stack Developer<br>🚀 I  do like be freelancer and creating startup projects<br>✌️ i am currently a student at the moment<br>🧑‍💻 i like solving Leet code and typing fast on  Monkeytype<br>🚀
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
