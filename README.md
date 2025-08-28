@@ -1,4 +1,5 @@
-# 💫  Just Code It! 🧠🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+MongoDB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 🧠 I am just Coder and My Dream is become Full stack Developer<br>🚀 I  do like be freelancer and creating startup projects<br>✌️ i am currently a student at the moment<br>🧑‍💻 i like solving Leet code and typing fast on  Monkeytype<br>🚀
 
 # 💻 Tech Stack:
@@ -21,19 +22,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ozodbek-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+MongoDB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
----
-
-## 🚗 Drift time
-<img src="drift.gif" width="600">
-
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Vortex/Vortex/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
