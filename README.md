@@ -1,44 +1,3 @@
-<!-- HERO -->
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" preserveAspectRatio="xMidYMid slice">
-  <defs>
-    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00d4ff">
-        <animate attributeName="offset" values="0;1;0" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#7c3aed">
-        <animate attributeName="offset" values="1;0;1" dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="g2" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#111827" />
-      <stop offset="100%" stop-color="#0b1220" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <rect width="100%" height="100%" fill="url(#g2)"/>
-  <rect x="-1600" y="0" width="4800" height="360" fill="url(#g1)">
-    <animate attributeName="x" values="-1600;0;-1600" dur="18s" repeatCount="indefinite"/>
-  </rect>
-
-  <g filter="url(#glow)">
-    <text x="50%" y="48%" text-anchor="middle" font-family="Fira Code, monospace" font-size="64" fill="white" opacity="0.95">
-      OZODBEK-CLOUD — FULL STACK DEVELOPER
-    </text>
-  </g>
-
-  <text x="50%" y="76%" text-anchor="middle" font-family="Fira Code, monospace" font-size="28" fill="none" stroke="white" stroke-width="1.2" stroke-dasharray="820" stroke-dashoffset="820">
-    NestJS • React • Prisma • PostgreSQL • Redis • Docker
-    <animate attributeName="stroke-dashoffset" values="820;0" dur="6s" fill="freeze"/>
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
-  </text>
-</svg>
-
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -52,13 +11,6 @@
   <img src="https://img.shields.io/badge/Focus-NestJS%20%7C%20React%20%7C%20Prisma-success?style=for-the-badge" alt="focus"/>
 </p>
 
----
-
-### 🚗 Drift GIF (AI)
-<p align="center">
-  <!-- Yuklangan drift.gif fayli shu yerda chiqadi -->
-  <img src="./drift.gif" width="700" alt="Drifting car (AI GIF)"/>
-</p>
 
 ---
 
