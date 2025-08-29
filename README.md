@@ -5,11 +5,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ozodbek-cloud&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/badge/Stack-Full%20Stack-informational?style=for-the-badge" alt="stack"/>
-  <img src="https://img.shields.io/badge/Focus-NestJS%20%7C%20React%20%7C%20Prisma-success?style=for-the-badge" alt="focus"/>
-</p>
 
 
 ---
@@ -32,26 +27,7 @@
 
 ---
 
-### 🕹️ Animated Contributions (auto-generated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ozodbek-cloud/Ozodbek-cloud/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ozodbek-cloud/Ozodbek-cloud/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 ### 🧠 What I’m Building
 - Modular backends (NestJS + Prisma + PostgreSQL)  
 - Reusable UI kits (React + Tailwind + shadcn)  
 - Caching & queues (Redis) • Observability (Winston)
-
----
-
-### 📬 Contact
-<p align="center">
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-yourmail%40example.com-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/Ozodbek-cloud"><img src="https://img.shields.io/badge/GitHub-Ozodbek--cloud-181717?style=for-the-badge&logo=github"/></a>
-</p>
